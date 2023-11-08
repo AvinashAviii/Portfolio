@@ -31,7 +31,7 @@ const mainBody = {
   ],
 };
 
-// ABOUT SECTION
+// ABOUT 
 // If you want the About Section to show a profile picture you can fill the profilePictureLink either with:
 //a) your Instagram username
 //      i.e:profilePictureLink:"johnDoe123",
