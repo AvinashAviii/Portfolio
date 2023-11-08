@@ -22,7 +22,7 @@ const mainBody = {
     },
     {
       image: "fa-superpowers", // Reference to the local image file
-      url: "https://codeforces.com/profile/mr.king.",
+      url: "https://codeforces.com/profile/survival_001",
     },
     {
       image: "fa-linkedin",
@@ -31,7 +31,7 @@ const mainBody = {
   ],
 };
 
-// ABOUT 
+// ABOUT git 
 // If you want the About Section to show a profile picture you can fill the profilePictureLink either with:
 //a) your Instagram username
 //      i.e:profilePictureLink:"johnDoe123",
