@@ -22,7 +22,7 @@ const mainBody = {
     },
     {
       image: "fa-superpowers", // Reference to the local image file
-      url: "https://codeforces.com/profile/mr.king",
+      url: "https://codeforces.com/profile/mr.king.",
     },
     {
       image: "fa-linkedin",
